@@ -1,9 +1,10 @@
-body, footer 
+body 
 {
 	color: #464646;
 	line-height: 1.4;
 	text-align: left;
 	font-size: 18px;
+	margin: 30px 300px 30px 300px;
 }
 
 .italic
