@@ -1,3 +1,27 @@
-body{
+body, footer 
+{
 	color: #464646;
+	line-height: 1.4;
+	text-align: left;
+	font-size: 18px;
+}
+
+.italic
+{
+	font-style: italic;
+}
+
+.declarations
+{
+	font-weight: bold;
+}
+
+.courier
+{
+	font-family: "courier";
+}
+
+footer 
+{
+	border-top: 2px grey groove;
 }
