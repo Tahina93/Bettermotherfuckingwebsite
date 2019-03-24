@@ -1,8 +1,4 @@
 setTimeout (myFunction, 10000);
 function myFunction() {
-if (confirm("Hey le site xxxvidsxxx est trop bien. Viens dessus stp please")) {
-  txt = "OK!";
-} else {
-  txt = "Nope!";
-}
+ open ("popup.html", "target", "toolbar=1, directories=1, status=1, menubar=1, width=300, height=200, scrollbars=1, location=1, resizable=1");
 }
